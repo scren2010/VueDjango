@@ -4,4 +4,9 @@ myvenv/
 npm-debug.log
 yarn-error.log
 
-
+*.pyc
+*~
+__pycache__
+db.sqlite3
+# /static
+.DS_Store
