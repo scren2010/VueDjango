@@ -1,0 +1,7 @@
+.vscode/
+**/dist
+myvenv/
+npm-debug.log
+yarn-error.log
+
+
